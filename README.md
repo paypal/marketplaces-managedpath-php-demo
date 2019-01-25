@@ -1,6 +1,6 @@
-## PayPal for Marketplaces Managed path
+## PayPal for Partners Managed path
 
-> **Important:** PayPal for Marketplaces is a limited-release solution at this time. It is available to select partners for approved use cases. For more information, reach out to your PayPal account manager.
+> **Important:** PayPal for Partners is a limited-release solution at this time. It is available to select partners for approved use cases. For more information, reach out to your PayPal account manager.
 
 ## Prerequisites
 
