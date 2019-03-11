@@ -1,11 +1,19 @@
 <h3>Readme</h3>
 
 <br />
-<b>Important:</b> PayPal for Marketplaces is a limited-release solution at this time. It is available to select partners for approved use cases. For more information, reach out to your PayPal account manager or <a href="https://www.paypal.com/us/webapps/mpp/partner-program/contact-us" target="_blank">contact us</a>.
+<b>Important:</b> PayPal for Partners is a limited-release solution at this time. It is available to select partners for approved use cases. 
+<br>Two versions of the solution are available:<br>
+New integrations: <a href="https://developer.paypal.com/docs/partners/" target="_blank">version 2</a> (from February 2019)<br>
+Existing integrations: <a href="https://developer.paypal.com/docs/partners/v1/" target="_blank">version 1</a> (before February 2019)<br>
+New customers should integrate version 2. For more information, reach out to your PayPal account manager.<br><br>
+
+
+
+This code sample is not upgraded to use <a href="https://developer.paypal.com/docs/partners/" target="_blank">version 2</a>.
 <br/><br/>
 
 <h4>Getting Started</h4>
-This code sample serves as a reference for PayPal for Marketplaces APIs. You will need your own PayPal Sandbox Partner credentials to run the code sample.
+This code sample serves as a reference for PayPal for Partners APIs. You will need your own PayPal Sandbox Partner credentials to run the code sample.
 Once you have your Partner credentials, refer to the steps below:
 <br />
 <br />
@@ -114,7 +122,7 @@ A marketplace model in which merchant aren't required to have PayPal account.
 
 <h4>Documentation</h4>
 
-PayPal for Marketplaces: <a href="https://developer.paypal.com/docs/marketplaces/pp4mp/" target="_blank">https://developer.paypal.com/docs/marketplaces/pp4mp/</a>
+PayPal for Partners: <a href="https://developer.paypal.com/docs/partners/" target="_blank">https://developer.paypal.com/docs/partners/</a>
 
 <br />
 <br />
