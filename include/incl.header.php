@@ -136,7 +136,7 @@
 		<div class="container-fluid">
 
             <div class="well bg-color">
-                <h2 class="text-center">PayPal for Partners &bull; <a href="../index.php#readme" class="light-links">Readme</a></h2>
+                <h2 class="text-center">PayPal Commerce Platform &bull; <a href="../index.php#readme" class="light-links">Readme</a></h2>
             </div>
             
         </div>
