@@ -13,7 +13,7 @@ This code sample is not upgraded to use <a href="https://developer.paypal.com/do
 <br/><br/>
 
 <h4>Getting Started</h4>
-This code sample serves as a reference for PayPal for Partners APIs. You will need your own PayPal Sandbox Partner credentials to run the code sample.
+This code sample serves as a reference for PayPal Commerce Platform APIs. You will need your own PayPal Sandbox Partner credentials to run the code sample.
 Once you have your Partner credentials, refer to the steps below:
 <br />
 <br />
