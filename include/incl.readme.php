@@ -1,7 +1,7 @@
 <h3>Readme</h3>
 
 <br />
-<b>Important:</b> PayPal for Partners is a limited-release solution at this time. It is available to select partners for approved use cases. 
+<b>Important:</b> PayPal Commerce Platform for eCommerce Solution Providers and Marketplaces is a limited-release solution at this time. It is available to select partners for approved use cases. 
 <br>Two versions of the solution are available:<br>
 New integrations: <a href="https://developer.paypal.com/docs/partners/" target="_blank">version 2</a> (from February 2019)<br>
 Existing integrations: <a href="https://developer.paypal.com/docs/partners/v1/" target="_blank">version 1</a> (before February 2019)<br>
