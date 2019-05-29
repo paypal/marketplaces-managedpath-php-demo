@@ -1,6 +1,6 @@
-## PayPal for Partners Managed path
+## PayPal Commerce Platform Managed path
 
-> **Important:** PayPal for Partners is a limited-release solution at this time. It is available to select partners for approved use cases. Two versions of the solution are available:
+> **Important:** PayPal Commerce Platform for eCommerce Solution Providers and Marketplaces is a limited-release solution at this time. It is available to select partners for approved use cases. Two versions of the solution are available:
 >
 >New integrations: [version 2](https://developer.paypal.com/docs/partners/) (from February 2019)
 >
